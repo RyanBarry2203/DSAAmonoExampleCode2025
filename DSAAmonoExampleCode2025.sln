@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees2025", "Trees2025\Tree
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseFire2025", "MouseFire2025\MouseFire2025.csproj", "{3B86B3E4-EE01-9253-19C7-3C1631B70589}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerExample", "TimerExample\TimerExample.csproj", "{88CD76E8-609B-14E0-EFF8-0762F58B1F84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,10 @@ Global
 		{3B86B3E4-EE01-9253-19C7-3C1631B70589}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B86B3E4-EE01-9253-19C7-3C1631B70589}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B86B3E4-EE01-9253-19C7-3C1631B70589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CD76E8-609B-14E0-EFF8-0762F58B1F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CD76E8-609B-14E0-EFF8-0762F58B1F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CD76E8-609B-14E0-EFF8-0762F58B1F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CD76E8-609B-14E0-EFF8-0762F58B1F84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
